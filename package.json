@@ -1,0 +1,24 @@
+{
+  "name": "nodejspractice",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hatif0786/NodeJsPractice.git"
+  },
+  "author": "Hatif",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/Hatif0786/NodeJsPractice/issues"
+  },
+  "homepage": "https://github.com/Hatif0786/NodeJsPractice#readme",
+  "dependencies": {
+    "colors": "^1.4.0",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2"
+  }
+}
